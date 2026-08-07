@@ -84,6 +84,6 @@ We use this categorical data encoding technique when the features are nominal(do
 
 
 # RESULT:
-The dataset was successfully cleaned, encoded and transformed using appropriate feature encoding and transformation techniques. The processed dataset was then saved to a file.
+The dataset was successfully cleaned, encoded and transformed. The processed dataset was then saved to a file.
 
        
